@@ -1,2 +1,4 @@
 # curso-Git
-esto es un repositorio de prueba para el curso git
+
+esto es un repositorio de prueba para el curso git de la untdf
+
